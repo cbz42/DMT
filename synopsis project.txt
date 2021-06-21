@@ -1,0 +1,14 @@
+topic : a comparative analysis of diffrent modulation scheme for qos support (using matlab).
+
+description : it is well known that noise in the communication channel is a danger for transmission of digital bits leading to several errors in the bit level.To understand this more deeply, various modulation schemes such as FSK, MSK, BPSK, QPSK, QAM, MPSK and MQAM are analysed in terms of BER, Probability of error, SNR, MSE and rate distortion.From this analysis arises an interesting result which recommends the use of certain modulation schemes under the presence of certain levels of noise in the communication channel.By implememnting  diffrent moduation and compare all the modulation scheme the Quality of service is analyzed.
+
+
+technology :- Matlab & simulink
+
+
+module : - 
+
+Amplitude Shift Keying(ASK)
+Frequency Shift Keying(FSK)
+Phase Shift Keying(PSK)
+graph report
